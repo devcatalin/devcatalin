@@ -8,4 +8,8 @@
 
 - 🔨 Currently working on:
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kubeshop&repo=monokle&theme=chartreuse-dark)](https://github.com/kubeshop/testkube)
+
+and  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kubeshop&repo=monokle&theme=chartreuse-dark)](https://github.com/kubeshop/monokle)
